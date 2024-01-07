@@ -5,7 +5,7 @@ An Instagram profile scraper bot.
 
 ### Clone the repo
 ```bash
-git clone https://github.com/Atuls-git/InstaBOT.git
+git clone https://github.com/A-Unix/InstaBOT.git
 ```
 ### Move to cloned folder
 ```bash
